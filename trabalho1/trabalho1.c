@@ -21,7 +21,6 @@
 // #################################################
 
 
-```c
 #include <stdio.h>
 #include "trabalho1.h"
 #include <stdlib.h>
@@ -579,4 +578,4 @@ DataQuebrada quebraData(char str_data_entrada[])
     return obj_quebrado;
 }
 
-```
+
